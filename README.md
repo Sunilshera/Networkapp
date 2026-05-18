@@ -1,2 +1,3 @@
 # Networkapp
-this is a project for personal use
+this is a personal project
+
